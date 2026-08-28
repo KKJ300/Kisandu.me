@@ -362,6 +362,9 @@ section {
   object-fit: contain;
 
   background: transparent;
+  position: relative;
+  top: 70px;
+  left: 50px;
 
   display: block;
 }
